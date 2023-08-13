@@ -1,2 +1,2 @@
-FROM mathworks/matlab:R2023a
+FROM mathworks/matlab:R2020b
 CMD ["-browser"]
